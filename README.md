@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aishwarya
 - 👀 I’m interested in WebD
 - 🌱 I’m currently learning Backend
-- 💞️ I’m planning for higherstudies
+- 💞️ I’m planning for placement and internships in core companies
 - 📫 email: shiriaishwarya@gmail.com linkedin: https://www.linkedin.com/in/aishwarya-sunkara-02b913279/
 
 <!---
